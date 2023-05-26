@@ -1,8 +1,11 @@
 
 # Build the arsdk3, 
 # Among others, it will produce libarcommands.so
+
+set(built_libs ${REPODIR}/out/arsdk-native/staging/usr/lib/)
+
 add_custom_command(
-	OUTPUT ${REPODIR}/out/arsdk-native/staging/usr/lib/ ${REPODIR}/out/arsdk-native/staging/usr/include/
+	OUTPUT ${built_libs} ${REPODIR}/out/arsdk-native/staging/usr/include/
 	COMMAND ./build.sh -p arsdk-native -t build-sdk -j
 	WORKING_DIRECTORY ${REPODIR}
 	COMMENT "Building parrot ARSDK3"
