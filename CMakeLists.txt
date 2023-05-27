@@ -41,6 +41,5 @@ include(build_arsdk)
 include(install_arsdk)
 
 ament_export_include_directories(include)
-# ament_export_libraries(libarsal)
 
-ament_package()
+ament_package(CONFIG_EXTRAS cmake/ros2_parrot_arsdk.cmake.in)
