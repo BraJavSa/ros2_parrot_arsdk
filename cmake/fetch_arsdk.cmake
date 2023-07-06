@@ -15,8 +15,8 @@ file(CHMOD ${REPODIR}/repo PERMISSIONS OWNER_EXECUTE OWNER_READ)
 
 add_custom_command(
 	OUTPUT ${REPODIR}/packages/ARSDK3
-	COMMAND repo init -u https://github.com/Parrot-Developers/arsdk_manifests.git -b ${ARSDK_MANIFEST_HASH} -m release.xml 
-	COMMAND repo sync -c
+	COMMAND ${REPODIR}/repo init -u https://github.com/Parrot-Developers/arsdk_manifests.git -b ${ARSDK_MANIFEST_HASH} -m release.xml 
+	COMMAND ${REPODIR}/repo sync -c
 	WORKING_DIRECTORY ${REPODIR}
 	COMMENT "Downloading parrot ARSDK3 with repo in ${REPODIR}"
 	)
