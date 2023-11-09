@@ -19,6 +19,8 @@ add_custom_command(
 	COMMAND ${REPODIR}/repo sync -c
 	WORKING_DIRECTORY ${REPODIR}
 	COMMENT "Downloading parrot ARSDK3 with repo in ${REPODIR}"
+    COMMENT "Now patching pymavlink for fixing python 3.9 error"
+	COMMAND patch -p0 < ${CMAKE_SOURCE_DIR}/patches/mavcrc.py.patch
 	)
 add_custom_target(arsdk3_download ALL DEPENDS ${REPODIR}/packages/ARSDK3)
 
