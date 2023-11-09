@@ -2,6 +2,14 @@
 
 A colcon wrapper around the Parrot ARSDK. 
 
+## Dependencies
+
+```
+sudo apt install libavahi-client-dev
+```
+
+## Installation
+
 For the installation :
 
 ```
