@@ -1,0 +1,892 @@
+
+Merging program properties
+
+
+As-needed library included to satisfy reference by file (symbol)
+
+libstdc++.so.6                /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o (std::basic_streambuf<char, std::char_traits<char> >::overflow(int)@@GLIBCXX_3.4)
+libgcc_s.so.1                 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o (_Unwind_Resume@@GCC_3.0)
+libc.so.6                     /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o (writev@@GLIBC_2.2.5)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/crtbeginS.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /usr/lib/gcc/x86_64-linux-gnu/13/crtbeginS.o
+ .group         0x0000000000000000        0xc /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .group         0x0000000000000000        0xc /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .group         0x0000000000000000        0x8 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .group         0x0000000000000000        0xc /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .group         0x0000000000000000        0x8 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .group         0x0000000000000000        0xc /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .group         0x0000000000000000       0x1c /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .group         0x0000000000000000        0xc /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .group         0x0000000000000000        0xc /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .text          0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .data          0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .text._ZN4ulog8internal11OstreamUlogC2EPNS0_10UlogstreamE
+                0x0000000000000000       0x47 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .text._ZN4ulog8internal10Ulogstream6setTagER11ulog_cookie
+                0x0000000000000000        0xf /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .text          0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ .data          0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ .bss           0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ .text          0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_read.c.o
+ .data          0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_read.c.o
+ .bss           0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_read.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_read.c.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_read.c.o
+ .text          0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_android.c.o
+ .data          0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_android.c.o
+ .bss           0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_android.c.o
+ .text.ulog_writer_android
+                0x0000000000000000        0x5 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_android.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_android.c.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_android.c.o
+ .text          0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+ .data          0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+ .bss           0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+ .text          0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_raw.c.o
+ .data          0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_raw.c.o
+ .bss           0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_raw.c.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_raw.c.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_raw.c.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/crtendS.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/crtendS.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/crtendS.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /usr/lib/gcc/x86_64-linux-gnu/13/crtendS.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crtn.o
+ .note.gnu.property
+                0x0000000000000000       0x20 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crtn.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/13/crtbeginS.o
+LOAD /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+LOAD /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+LOAD /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_read.c.o
+LOAD /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_android.c.o
+LOAD /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+LOAD /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_raw.c.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/librt.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/13/libstdc++.so
+LOAD /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/libm.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libm.so.6
+LOAD /lib/x86_64-linux-gnu/libmvec.so.1
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/13/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/13/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/libpthread.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/libc.so
+START GROUP
+LOAD /lib/x86_64-linux-gnu/libc.so.6
+LOAD /usr/lib/x86_64-linux-gnu/libc_nonshared.a
+LOAD /lib64/ld-linux-x86-64.so.2
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/13/libgcc_s.so
+START GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/libgcc_s.so.1
+LOAD /usr/lib/gcc/x86_64-linux-gnu/13/libgcc.a
+END GROUP
+LOAD /usr/lib/gcc/x86_64-linux-gnu/13/crtendS.o
+LOAD /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crtn.o
+                0x00000000000002a8                . = (SEGMENT_START ("text-segment", 0x0) + SIZEOF_HEADERS)
+
+.note.gnu.property
+                0x00000000000002a8       0x20
+ .note.gnu.property
+                0x00000000000002a8       0x20 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+
+.note.gnu.build-id
+                0x00000000000002c8       0x24
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x00000000000002c8       0x24 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+
+.hash
+ *(.hash)
+
+.gnu.hash       0x00000000000002f0       0xec
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000002f0       0xec /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+
+.dynsym         0x00000000000003e0      0x828
+ *(.dynsym)
+ .dynsym        0x00000000000003e0      0x828 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+
+.dynstr         0x0000000000000c08      0x8f2
+ *(.dynstr)
+ .dynstr        0x0000000000000c08      0x8f2 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version    0x00000000000014fa       0xae
+ *(.gnu.version)
+ .gnu.version   0x00000000000014fa       0xae /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_d  0x00000000000015a8        0x0
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000000015a8        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+
+.gnu.version_r  0x00000000000015a8       0xe0
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000000015a8       0xe0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+
+.rela.dyn       0x0000000000001688      0x6c0
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ .rela.text     0x0000000000001688        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.text._ZN4ulog8internal11OstreamUlogD1Ev
+                0x0000000000001688        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.text._ZN4ulog8internal11OstreamUlogD0Ev
+                0x0000000000001688        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.text._ZN4ulog8internal10Ulogstream4syncEv
+                0x0000000000001688        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.text._ZN4ulog8internal10Ulogstream8makeKeysEv
+                0x0000000000001688        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.text._ZN4ulog8internal10Ulogstream6xsputnEPKcl
+                0x0000000000001688        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.text._ZN4ulog8internal11OstreamUlogC1EPNS0_10UlogstreamE
+                0x0000000000001688        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.text._ZN4ulog8internal11OstreamUlogclER11ulog_cookie
+                0x0000000000001688        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.text._ZN4ulog8internal10UlogstreamC2Eii
+                0x0000000000001688        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.text.startup._GLOBAL__sub_I_ulog.cpp
+                0x0000000000001688        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ .rela.data.rel.local
+                0x0000000000001688       0x30 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.data.rel.ro._ZTIN4ulog8internal11OstreamUlogE
+                0x00000000000016b8       0x48 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.data.rel.ro._ZTIN4ulog8internal10UlogstreamE
+                0x0000000000001700       0x48 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.data.rel.ro._ZTCN4ulog8internal11OstreamUlogE0_So
+                0x0000000000001748       0x30 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.data.rel.ro.local._ZTTN4ulog8internal11OstreamUlogE
+                0x0000000000001778       0x60 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.data.rel.ro.local._ZTVN4ulog8internal11OstreamUlogE
+                0x00000000000017d8       0x90 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.data.rel.ro._ZTVN4ulog8internal10UlogstreamE
+                0x0000000000001868      0x168 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.data.rel.ro.local
+                0x00000000000019d0      0x198 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.data.rel.local.DW.ref.__gxx_personality_v0
+                0x0000000000001b68       0x18 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.data.rel
+                0x0000000000001b80       0x30 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ .rela.got      0x0000000000001bb0      0x150 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ldata .rela.ldata.* .rela.gnu.linkonce.l.*)
+ *(.rela.lbss .rela.lbss.* .rela.gnu.linkonce.lb.*)
+ *(.rela.lrodata .rela.lrodata.* .rela.gnu.linkonce.lr.*)
+ *(.rela.ifunc)
+ .rela.ifunc    0x0000000000001d00        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.fini_array
+                0x0000000000001d00       0x18 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.init_array
+                0x0000000000001d18       0x30 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .rela.eh_frame
+                0x0000000000001d48        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+
+.rela.plt       0x0000000000001d48      0x3d8
+ *(.rela.plt)
+ .rela.plt      0x0000000000001d48      0x3d8 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ *(.rela.iplt)
+
+.relr.dyn
+ *(.relr.dyn)
+                0x0000000000003000                . = ALIGN (CONSTANT (MAXPAGESIZE))
+
+.init           0x0000000000003000       0x1b
+ *(SORT_NONE(.init))
+ .init          0x0000000000003000       0x16 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+                0x0000000000003000                _init
+ .init          0x0000000000003016        0x5 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crtn.o
+
+.plt            0x0000000000003020      0x2a0
+ *(.plt)
+ .plt           0x0000000000003020      0x2a0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ *(.iplt)
+
+.plt.got        0x00000000000032c0       0x10
+ *(.plt.got)
+ .plt.got       0x00000000000032c0       0x10 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+
+.plt.sec        0x00000000000032d0      0x290
+ *(.plt.sec)
+ .plt.sec       0x00000000000032d0      0x290 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+
+.text           0x0000000000003560     0x190d
+ *(.text.unlikely .text.*_unlikely .text.unlikely.*)
+ .text.unlikely._ZN4ulog8internal11OstreamUlogC1EPNS0_10UlogstreamE
+                0x0000000000003560       0x1f /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ *fill*         0x000000000000357f        0x1 
+ .text.unlikely._ZN4ulog8internal10UlogstreamC2Eii
+                0x0000000000003580       0x17 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ *(.text.exit .text.exit.*)
+ *(.text.startup .text.startup.*)
+ *fill*         0x0000000000003597        0x9 
+ .text.startup._GLOBAL__sub_I_ulog.cpp
+                0x00000000000035a0      0x1fe /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ *(.text.hot .text.hot.*)
+ *(SORT_BY_NAME(.text.sorted.*))
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ *fill*         0x000000000000379e        0x2 
+ .text          0x00000000000037a0       0xb9 /usr/lib/gcc/x86_64-linux-gnu/13/crtbeginS.o
+ *fill*         0x0000000000003859        0x7 
+ .text._ZN4ulog8internal11OstreamUlogD1Ev
+                0x0000000000003860       0x78 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x0000000000003860                ulog::internal::OstreamUlog::~OstreamUlog()
+                0x00000000000038a0                virtual thunk to ulog::internal::OstreamUlog::~OstreamUlog()
+ *fill*         0x00000000000038d8        0x8 
+ .text._ZN4ulog8internal11OstreamUlogD0Ev
+                0x00000000000038e0       0x99 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x00000000000038e0                ulog::internal::OstreamUlog::~OstreamUlog()
+                0x0000000000003930                virtual thunk to ulog::internal::OstreamUlog::~OstreamUlog()
+ *fill*         0x0000000000003979        0x7 
+ .text._ZN4ulog8internal10UlogstreamD2Ev
+                0x0000000000003980       0x29 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x0000000000003980                ulog::internal::Ulogstream::~Ulogstream()
+                0x0000000000003980                ulog::internal::Ulogstream::~Ulogstream()
+ *fill*         0x00000000000039a9        0x7 
+ .text._ZN4ulog8internal10Ulogstream4syncEv
+                0x00000000000039b0       0x89 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x00000000000039b0                ulog::internal::Ulogstream::sync()
+ *fill*         0x0000000000003a39        0x7 
+ .text._ZN4ulog8internal10Ulogstream8makeKeysEv
+                0x0000000000003a40       0x2d /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x0000000000003a40                ulog::internal::Ulogstream::makeKeys()
+ *fill*         0x0000000000003a6d        0x3 
+ .text._ZN4ulog8internal10Ulogstream16keyBufDestructorEPv
+                0x0000000000003a70       0x39 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x0000000000003a70                ulog::internal::Ulogstream::keyBufDestructor(void*)
+ *fill*         0x0000000000003aa9        0x7 
+ .text._ZN4ulog8internal10Ulogstream6xsputnEPKcl
+                0x0000000000003ab0      0x126 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x0000000000003ab0                ulog::internal::Ulogstream::xsputn(char const*, long)
+ *fill*         0x0000000000003bd6        0xa 
+ .text._ZN4ulog8internal10UlogstreamD0Ev
+                0x0000000000003be0       0x36 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x0000000000003be0                ulog::internal::Ulogstream::~Ulogstream()
+ *fill*         0x0000000000003c16        0xa 
+ .text._ZN4ulog8internal11OstreamUlogC1EPNS0_10UlogstreamE
+                0x0000000000003c20       0x94 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x0000000000003c20                ulog::internal::OstreamUlog::OstreamUlog(ulog::internal::Ulogstream*)
+ *fill*         0x0000000000003cb4        0xc 
+ .text._ZN4ulog8internal11OstreamUlogclER11ulog_cookie
+                0x0000000000003cc0       0x18 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x0000000000003cc0                ulog::internal::OstreamUlog::operator()(ulog_cookie&)
+ *fill*         0x0000000000003cd8        0x8 
+ .text._ZN4ulog8internal10UlogstreamC2Eii
+                0x0000000000003ce0       0xc9 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x0000000000003ce0                ulog::internal::Ulogstream::Ulogstream(int, int)
+                0x0000000000003ce0                ulog::internal::Ulogstream::Ulogstream(int, int)
+ *fill*         0x0000000000003da9        0x7 
+ .text.__writer_null
+                0x0000000000003db0        0x5 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ *fill*         0x0000000000003db5        0xb 
+ .text.__writer_kernel
+                0x0000000000003dc0       0x95 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ *fill*         0x0000000000003e55        0xb 
+ .text.__writer_init
+                0x0000000000003e60      0x1ad /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ *fill*         0x000000000000400d        0x3 
+ .text.__writer_stderr
+                0x0000000000004010       0x7b /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ *fill*         0x000000000000408b        0x5 
+ .text.__writer_stderr_wrapper_color
+                0x0000000000004090       0x1b /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ *fill*         0x00000000000040ab        0x5 
+ .text.__writer_stderr_wrapper
+                0x00000000000040b0       0x1b /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ *fill*         0x00000000000040cb        0x5 
+ .text.ulog_set_write_func
+                0x00000000000040d0       0x78 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+                0x00000000000040d0                ulog_set_write_func
+ *fill*         0x0000000000004148        0x8 
+ .text.ulog_set_cookie_register_func
+                0x0000000000004150       0x3f /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+                0x0000000000004150                ulog_set_cookie_register_func
+ *fill*         0x000000000000418f        0x1 
+ .text.ulog_foreach
+                0x0000000000004190       0x6f /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+                0x0000000000004190                ulog_foreach
+ *fill*         0x00000000000041ff        0x1 
+ .text.ulog_init_cookie
+                0x0000000000004200      0x19d /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+                0x0000000000004200                ulog_init_cookie
+ *fill*         0x000000000000439d        0x3 
+ .text.ulog_vlog_write
+                0x00000000000043a0       0x94 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+                0x00000000000043a0                ulog_vlog_write
+ *fill*         0x0000000000004434        0xc 
+ .text.ulog_log_write
+                0x0000000000004440       0xb0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+                0x0000000000004440                ulog_log_write
+ .text.ulog_log_str
+                0x00000000000044f0       0x55 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+                0x00000000000044f0                ulog_log_str
+ *fill*         0x0000000000004545        0xb 
+ .text.ulog_log_buf
+                0x0000000000004550       0x5d /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+                0x0000000000004550                ulog_log_buf
+ *fill*         0x00000000000045ad        0x3 
+ .text.ulog_init
+                0x00000000000045b0       0x15 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+                0x00000000000045b0                ulog_init
+ *fill*         0x00000000000045c5        0xb 
+ .text.ulog_set_level
+                0x00000000000045d0       0x2f /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+                0x00000000000045d0                ulog_set_level
+ *fill*         0x00000000000045ff        0x1 
+ .text.ulog_get_level
+                0x0000000000004600       0x12 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+                0x0000000000004600                ulog_get_level
+ *fill*         0x0000000000004612        0xe 
+ .text.ulog_set_tag_level
+                0x0000000000004620       0x7f /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+                0x0000000000004620                ulog_set_tag_level
+ *fill*         0x000000000000469f        0x1 
+ .text.ulog_get_tag_names
+                0x00000000000046a0       0x81 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+                0x00000000000046a0                ulog_get_tag_names
+ *fill*         0x0000000000004721        0xf 
+ .text.ulog_parse_buf
+                0x0000000000004730      0x1f2 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_read.c.o
+                0x0000000000004730                ulog_parse_buf
+ *fill*         0x0000000000004922        0xe 
+ .text.ulog_bin_open
+                0x0000000000004930       0xe4 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+                0x0000000000004930                ulog_bin_open
+ *fill*         0x0000000000004a14        0xc 
+ .text.ulog_bin_close
+                0x0000000000004a20       0x15 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+                0x0000000000004a20                ulog_bin_close
+ *fill*         0x0000000000004a35        0xb 
+ .text.ulog_bin_writev
+                0x0000000000004a40      0x140 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+                0x0000000000004a40                ulog_bin_writev
+ .text.ulog_bin_write
+                0x0000000000004b80       0x49 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+                0x0000000000004b80                ulog_bin_write
+ *fill*         0x0000000000004bc9        0x7 
+ .text.ulog_raw_open
+                0x0000000000004bd0      0x134 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_raw.c.o
+                0x0000000000004bd0                ulog_raw_open
+ *fill*         0x0000000000004d04        0xc 
+ .text.ulog_raw_close
+                0x0000000000004d10       0x15 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_raw.c.o
+                0x0000000000004d10                ulog_raw_close
+ *fill*         0x0000000000004d25        0xb 
+ .text.ulog_raw_log
+                0x0000000000004d30      0x13d /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_raw.c.o
+                0x0000000000004d30                ulog_raw_log
+ *(.gnu.warning)
+
+.fini           0x0000000000004e70        0xd
+ *(SORT_NONE(.fini))
+ .fini          0x0000000000004e70        0x8 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+                0x0000000000004e70                _fini
+ .fini          0x0000000000004e78        0x5 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crtn.o
+                [!provide]                        PROVIDE (__etext = .)
+                [!provide]                        PROVIDE (_etext = .)
+                [!provide]                        PROVIDE (etext = .)
+                0x0000000000005000                . = ALIGN (CONSTANT (MAXPAGESIZE))
+                0x0000000000005000                . = SEGMENT_START ("rodata-segment", (ALIGN (CONSTANT (MAXPAGESIZE)) + (. & (CONSTANT (MAXPAGESIZE) - 0x1))))
+
+.rodata         0x0000000000005000      0x15a
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata.str1.1
+                0x0000000000005000       0xfc /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                                         0x15 (size before relaxing)
+ *fill*         0x00000000000050fc        0x4 
+ .rodata._ZTSN4ulog8internal11OstreamUlogE
+                0x0000000000005100       0x1e /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x0000000000005100                typeinfo name for ulog::internal::OstreamUlog
+ *fill*         0x000000000000511e        0x2 
+ .rodata._ZTSN4ulog8internal10UlogstreamE
+                0x0000000000005120       0x1d /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x0000000000005120                typeinfo name for ulog::internal::Ulogstream
+ .rodata.str1.1
+                0x000000000000513d       0xca /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ *fill*         0x000000000000513d        0x3 
+ .rodata        0x0000000000005140       0x1a /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ .rodata.str1.1
+                0x000000000000515a        0x1 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_read.c.o
+ .rodata.str1.1
+                0x000000000000515a       0x2f /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+ .rodata.str1.1
+                0x000000000000515a       0x28 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_raw.c.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr   0x000000000000515c      0x17c
+ *(.eh_frame_hdr)
+ .eh_frame_hdr  0x000000000000515c      0x17c /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x000000000000515c                __GNU_EH_FRAME_HDR
+ *(.eh_frame_entry .eh_frame_entry.*)
+
+.eh_frame       0x00000000000052d8      0x7b0
+ *(.eh_frame)
+ .eh_frame      0x00000000000052d8       0x40 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .eh_frame      0x0000000000005318       0x18 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000005330       0x18 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000005348      0x280 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                                        0x2d0 (size before relaxing)
+ .eh_frame      0x00000000000055c8      0x360 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+                                        0x378 (size before relaxing)
+ .eh_frame      0x0000000000005928       0x68 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_read.c.o
+                                         0x80 (size before relaxing)
+ .eh_frame      0x0000000000005990        0x0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_android.c.o
+                                         0x30 (size before relaxing)
+ .eh_frame      0x0000000000005990       0x80 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+                                         0x98 (size before relaxing)
+ .eh_frame      0x0000000000005a10       0x74 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_raw.c.o
+                                         0x90 (size before relaxing)
+ .eh_frame      0x0000000000005a84        0x4 /usr/lib/gcc/x86_64-linux-gnu/13/crtendS.o
+ *(.eh_frame.*)
+
+.sframe         0x0000000000005a88        0x0
+ *(.sframe)
+ .sframe        0x0000000000005a88        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .sframe        0x0000000000005a88        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ *(.sframe.*)
+
+.gcc_except_table
+                0x0000000000005a88       0x23
+ *(.gcc_except_table .gcc_except_table.*)
+ .gcc_except_table._ZN4ulog8internal11OstreamUlogC1EPNS0_10UlogstreamE
+                0x0000000000005a88       0x11 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .gcc_except_table._ZN4ulog8internal10UlogstreamC2Eii
+                0x0000000000005a99       0x12 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges*)
+                0x0000000000006b68                . = DATA_SEGMENT_ALIGN (CONSTANT (MAXPAGESIZE), CONSTANT (COMMONPAGESIZE))
+
+.eh_frame
+ *(.eh_frame)
+ *(.eh_frame.*)
+
+.sframe
+ *(.sframe)
+ *(.sframe.*)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array     0x0000000000006b68       0x10
+ *(SORT_BY_INIT_PRIORITY(.init_array.*) SORT_BY_INIT_PRIORITY(.ctors.*))
+ *(.init_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .ctors)
+ .init_array    0x0000000000006b68        0x8 /usr/lib/gcc/x86_64-linux-gnu/13/crtbeginS.o
+ .init_array    0x0000000000006b70        0x8 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+
+.fini_array     0x0000000000006b78        0x8
+ *(SORT_BY_INIT_PRIORITY(.fini_array.*) SORT_BY_INIT_PRIORITY(.dtors.*))
+ *(.fini_array EXCLUDE_FILE(*crtend?.o *crtend.o *crtbegin?.o *crtbegin.o) .dtors)
+ .fini_array    0x0000000000006b78        0x8 /usr/lib/gcc/x86_64-linux-gnu/13/crtbeginS.o
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro    0x0000000000006b80      0x200
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ .data.rel.ro.local._ZTTN4ulog8internal11OstreamUlogE
+                0x0000000000006b80       0x20 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x0000000000006b80                VTT for ulog::internal::OstreamUlog
+ .data.rel.ro.local._ZTVN4ulog8internal11OstreamUlogE
+                0x0000000000006ba0       0x50 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x0000000000006ba0                vtable for ulog::internal::OstreamUlog
+ .data.rel.ro.local
+                0x0000000000006bf0        0x8 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x0000000000006bf0                ulog::UlogstreamCerr
+ *fill*         0x0000000000006bf8        0x8 
+ .data.rel.ro.local
+                0x0000000000006c00       0x80 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ *(.data.rel.ro .data.rel.ro.* .gnu.linkonce.d.rel.ro.*)
+ .data.rel.ro   0x0000000000006c80        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ .data.rel.ro._ZTIN4ulog8internal11OstreamUlogE
+                0x0000000000006c80       0x18 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x0000000000006c80                typeinfo for ulog::internal::OstreamUlog
+ .data.rel.ro._ZTIN4ulog8internal10UlogstreamE
+                0x0000000000006c98       0x18 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x0000000000006c98                typeinfo for ulog::internal::Ulogstream
+ .data.rel.ro._ZTCN4ulog8internal11OstreamUlogE0_So
+                0x0000000000006cb0       0x50 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x0000000000006cb0                construction vtable for std::ostream-in-ulog::internal::OstreamUlog
+ .data.rel.ro._ZTVN4ulog8internal10UlogstreamE
+                0x0000000000006d00       0x80 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x0000000000006d00                vtable for ulog::internal::Ulogstream
+
+.dynamic        0x0000000000006d80      0x1f0
+ *(.dynamic)
+ .dynamic       0x0000000000006d80      0x1f0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+                0x0000000000006d80                _DYNAMIC
+
+.got            0x0000000000006f70       0x70
+ *(.got)
+ .got           0x0000000000006f70       0x70 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ *(.igot)
+                0x0000000000006fe8                . = DATA_SEGMENT_RELRO_END (., (SIZEOF (.got.plt) >= 0x18)?0x18:0x0)
+
+.got.plt        0x0000000000006fe8      0x160
+ *(.got.plt)
+ .got.plt       0x0000000000006fe8      0x160 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+                0x0000000000006fe8                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+
+.data           0x0000000000007160       0xa0
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data.rel.local
+                0x0000000000007160        0x8 /usr/lib/gcc/x86_64-linux-gnu/13/crtbeginS.o
+                0x0000000000007160                __dso_handle
+ .data.rel.local.DW.ref.__gxx_personality_v0
+                0x0000000000007168        0x8 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x0000000000007168                DW.ref.__gxx_personality_v0
+ *fill*         0x0000000000007170       0x10 
+ .data.rel      0x0000000000007180       0x50 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ *fill*         0x00000000000071d0       0x10 
+ .data.rel.local
+                0x00000000000071e0       0x20 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+                0x00000000000071e0                __ulog_default_cookie
+
+.tm_clone_table
+                0x0000000000007200        0x0
+ .tm_clone_table
+                0x0000000000007200        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/crtbeginS.o
+ .tm_clone_table
+                0x0000000000007200        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/crtendS.o
+
+.data1
+ *(.data1)
+                [!provide]                        PROVIDE (_edata = .)
+                [!provide]                        PROVIDE (edata = .)
+                0x0000000000007200                . = ALIGN (ALIGNOF (NEXT_SECTION))
+                [!provide]                        PROVIDE (__bss_start = .)
+
+.bss            0x0000000000007200      0x998
+ *(.dynbss)
+ .dynbss        0x0000000000007200        0x0 /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000007200        0x1 /usr/lib/gcc/x86_64-linux-gnu/13/crtbeginS.o
+ *fill*         0x0000000000007201       0x1f 
+ .bss           0x0000000000007220      0x978 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                0x0000000000007220                ulog::internal::UlogCraw
+                0x0000000000007340                ulog::internal::UlogCrawStream
+                0x00000000000073a0                ulog::internal::UlogEraw
+                0x00000000000074c0                ulog::internal::UlogErawStream
+                0x0000000000007520                ulog::internal::UlogWraw
+                0x0000000000007640                ulog::internal::UlogWrawStream
+                0x00000000000076a0                ulog::internal::UlogNraw
+                0x00000000000077c0                ulog::internal::UlogNrawStream
+                0x0000000000007820                ulog::internal::UlogIraw
+                0x0000000000007940                ulog::internal::UlogIrawStream
+                0x00000000000079a0                ulog::internal::UlogDraw
+                0x0000000000007ac0                ulog::internal::UlogDrawStream
+                0x0000000000007b18                ulog::internal::Ulogstream::mTagKey
+                0x0000000000007b1c                ulog::internal::Ulogstream::mBufKey
+                0x0000000000007b20                ulog::internal::Ulogstream::mKeyOnce
+ *(COMMON)
+                0x0000000000007b98                . = ALIGN ((. != 0x0)?0x8:0x1)
+
+.lbss
+ *(.dynlbss)
+ *(.lbss .lbss.* .gnu.linkonce.lb.*)
+ *(LARGE_COMMON)
+                0x0000000000007b98                . = ALIGN (0x8)
+                0x0000000000007b98                . = SEGMENT_START ("ldata-segment", .)
+
+.lrodata
+ *(.lrodata .lrodata.* .gnu.linkonce.lr.*)
+
+.ldata          0x0000000000009b98        0x0
+ *(.ldata .ldata.* .gnu.linkonce.l.*)
+                0x0000000000009b98                . = ALIGN ((. != 0x0)?0x8:0x1)
+                0x0000000000009b98                . = ALIGN (0x8)
+                [!provide]                        PROVIDE (_end = .)
+                [!provide]                        PROVIDE (end = .)
+                0x0000000000009b98                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2b
+ *(.comment)
+ .comment       0x0000000000000000       0x2b /usr/lib/gcc/x86_64-linux-gnu/13/crtbeginS.o
+                                         0x2c (size before relaxing)
+ .comment       0x000000000000002b       0x2c /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .comment       0x000000000000002b       0x2c /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ .comment       0x000000000000002b       0x2c /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_read.c.o
+ .comment       0x000000000000002b       0x2c /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_android.c.o
+ .comment       0x000000000000002b       0x2c /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+ .comment       0x000000000000002b       0x2c /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_raw.c.o
+ .comment       0x000000000000002b       0x2c /usr/lib/gcc/x86_64-linux-gnu/13/crtendS.o
+
+.gnu.build.attributes
+ *(.gnu.build.attributes .gnu.build.attributes.*)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x3a0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x140 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .debug_aranges
+                0x0000000000000140      0x150 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ .debug_aranges
+                0x0000000000000290       0x30 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_read.c.o
+ .debug_aranges
+                0x00000000000002c0       0x30 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_android.c.o
+ .debug_aranges
+                0x00000000000002f0       0x60 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+ .debug_aranges
+                0x0000000000000350       0x50 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_raw.c.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0xbf47
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x8c9c /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .debug_info    0x0000000000008c9c     0x1b87 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ .debug_info    0x000000000000a823      0x55e /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_read.c.o
+ .debug_info    0x000000000000ad81      0x137 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_android.c.o
+ .debug_info    0x000000000000aeb8      0x7f4 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+ .debug_info    0x000000000000b6ac      0x89b /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_raw.c.o
+
+.debug_abbrev   0x0000000000000000     0x1ab0
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0xd97 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .debug_abbrev  0x0000000000000d97      0x561 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ .debug_abbrev  0x00000000000012f8      0x1df /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_read.c.o
+ .debug_abbrev  0x00000000000014d7       0xb4 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_android.c.o
+ .debug_abbrev  0x000000000000158b      0x295 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+ .debug_abbrev  0x0000000000001820      0x290 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_raw.c.o
+
+.debug_line     0x0000000000000000     0x1da0
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0xac2 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .debug_line    0x0000000000000ac2      0x9a2 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ .debug_line    0x0000000000001464      0x300 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_read.c.o
+ .debug_line    0x0000000000001764       0x6c /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_android.c.o
+ .debug_line    0x00000000000017d0      0x2ca /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+ .debug_line    0x0000000000001a9a      0x306 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_raw.c.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000     0x9147
+ *(.debug_str)
+ .debug_str     0x0000000000000000     0x9147 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                                       0x8d27 (size before relaxing)
+ .debug_str     0x0000000000009147      0xaa2 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ .debug_str     0x0000000000009147      0x286 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_read.c.o
+ .debug_str     0x0000000000009147      0x1d0 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_android.c.o
+ .debug_str     0x0000000000009147      0x406 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+ .debug_str     0x0000000000009147      0x49b /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_raw.c.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x0000000000000000      0x64e
+ *(.debug_line_str)
+ .debug_line_str
+                0x0000000000000000      0x64e /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+                                        0x543 (size before relaxing)
+ .debug_line_str
+                0x000000000000064e      0x2c6 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ .debug_line_str
+                0x000000000000064e      0x1cc /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_read.c.o
+ .debug_line_str
+                0x000000000000064e      0x150 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_android.c.o
+ .debug_line_str
+                0x000000000000064e      0x224 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+ .debug_line_str
+                0x000000000000064e      0x26c /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_raw.c.o
+
+.debug_loclists
+                0x0000000000000000     0x218c
+ *(.debug_loclists)
+ .debug_loclists
+                0x0000000000000000      0xc60 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .debug_loclists
+                0x0000000000000c60      0xc63 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ .debug_loclists
+                0x00000000000018c3      0x2b7 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_read.c.o
+ .debug_loclists
+                0x0000000000001b7a      0x395 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+ .debug_loclists
+                0x0000000000001f0f      0x27d /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_raw.c.o
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x0000000000000000      0x596
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x0000000000000000      0x3a6 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog.cpp.o
+ .debug_rnglists
+                0x00000000000003a6      0x121 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write.c.o
+ .debug_rnglists
+                0x00000000000004c7       0x54 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_read.c.o
+ .debug_rnglists
+                0x000000000000051b       0x17 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_android.c.o
+ .debug_rnglists
+                0x0000000000000532       0x37 /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_bin.c.o
+ .debug_rnglists
+                0x0000000000000569       0x2d /home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/build/libulog/obj/ulog_write_raw.c.o
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+ *(.gnu.lto_*)
+OUTPUT(out/arsdk-native/build/libulog/libulog.so elf64-x86-64)

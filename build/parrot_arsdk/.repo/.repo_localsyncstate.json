@@ -1,0 +1,126 @@
+{
+  "build/apps_tools": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/ARSDK3": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "build/dragon_build": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "build/alchemy": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/Samples": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/ARSDKBuildUtils": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/arsdk-xml": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/ARSDKTools": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/libARCommands": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/libARController": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/libARDiscovery": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/libARMavlink": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/libARNetwork": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/libARDataTransfer": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/libARNetworkAL": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/libARSAL": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/libARStream2": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/libARStream": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/libfutils": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/libARUtils": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/libARUpdater": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/libmux": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/libpomp": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/librtsp": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/libsdp": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/libARMedia": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/libtar": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/ulog": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "products/arsdk": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/mavlink": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  },
+  "packages/libpuf": {
+    "last_fetch": 1761949255.223853,
+    "last_checkout": 1761949255.223853
+  }
+}

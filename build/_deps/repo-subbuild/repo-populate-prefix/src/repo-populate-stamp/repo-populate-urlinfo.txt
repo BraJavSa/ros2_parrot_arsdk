@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/usr/bin/cmake;-P;/home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/_deps/repo-subbuild/repo-populate-prefix/src/repo-populate-stamp/download-repo-populate.cmake;COMMAND;/usr/bin/cmake;-P;/home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/_deps/repo-subbuild/repo-populate-prefix/src/repo-populate-stamp/verify-repo-populate.cmake
+source_dir=/home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk
+work_dir=/home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build
+url(s)=https://storage.googleapis.com/git-repo-downloads/repo
+hash=
+no_extract=YES
+

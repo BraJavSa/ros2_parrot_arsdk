@@ -1,0 +1,47 @@
+[core]
+	repositoryFormatVersion = 1
+	filemode = true
+[filter "lfs"]
+	smudge = git-lfs smudge --skip -- %f
+	process = git-lfs filter-process --skip
+[remote "origin"]
+	url = https://github.com/Parrot-Developers/arsdk_manifests.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[manifest]
+	platform = auto
+[extensions]
+	preciousObjects = true
+[branch "default"]
+	remote = origin
+	merge = 1ff5bdc5458627c12eb22e1dd1814cff25778f31
+[repo]
+	existingprojectcount = 0
+	newprojectcount = 31
+[repo "syncstate.main"]
+	synctime = 2025-10-31T22:21:12.817499+00:00
+	version = 1
+[repo "syncstate.sys"]
+	argv = ['/home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/.repo/repo/main.py', '--repo-dir=/home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/.repo', '--wrapper-version=2.54', '--wrapper-path=/home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/repo', '--', 'sync', '-c']
+[repo "syncstate.options"]
+	jobs = 4
+	outermanifest = true
+	jobsnetwork = 4
+	jobscheckout = 4
+	mpupdate = true
+	interleaved = true
+	currentbranchonly = true
+	clonebundle = true
+	retryfetches = 0
+	prune = true
+	repoverify = true
+	quiet = false
+	verbose = false
+[repo "syncstate.remote.origin"]
+	url = https://github.com/Parrot-Developers/arsdk_manifests.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[repo "syncstate.branch.default"]
+	remote = origin
+	merge = 1ff5bdc5458627c12eb22e1dd1814cff25778f31
+[repo "syncstate.repo"]
+	existingprojectcount = 0
+	newprojectcount = 31

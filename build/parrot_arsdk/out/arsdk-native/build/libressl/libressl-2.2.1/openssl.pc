@@ -1,0 +1,11 @@
+#openssl pkg-config source file
+
+prefix=/home/brayan/com_bebop_ws/src/ros2_parrot_arsdk/build/parrot_arsdk/out/arsdk-native/staging/usr
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: LibreSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Version: 2.2.1
+Requires: libssl libcrypto
